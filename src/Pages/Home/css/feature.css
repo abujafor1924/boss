@@ -1,0 +1,7 @@
+.feature {
+  background: linear-gradient(#e4e0e086, #16161889),
+    url("../../../assets/menu/dessert-bg.jpeg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
